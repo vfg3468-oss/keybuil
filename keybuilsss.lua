@@ -26,13 +26,13 @@ local Config = {
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
-    DiscordURL      = "https://discord.gg/kT55J724BK",
+    DiscordURL      = "",
     
     ShowInstagram   = false,
-    InstagramURL    = "https://www.instagram.com/oyb0i/",
+    InstagramURL    = "",
     
     ShowYoutube     = false,
-    YoutubeURL      = "https://www.youtube.com/channel/UCAlXXV1Hbvf7WbfXARuVtiQ",
+    YoutubeURL      = "",
 
     -- [5] File System
     KeyFileName     = "Mykey.txt", -- The name of the file where the valid key will be saved for auto-login
